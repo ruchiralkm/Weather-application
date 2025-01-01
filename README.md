@@ -28,12 +28,12 @@ A simple and interactive weather app built with Vue.js. The app fetches real-tim
     ```
 
 3. Run the app:
-
+   
     ```bash
-    npm run serve
+    npm run dev
     ```
 
-4. Open your browser and go to `http://localhost:8080`.
+5. Open your browser and go to `http://localhost:8080`.
 
 ## License
 
