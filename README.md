@@ -2,6 +2,8 @@
 
 A simple and interactive weather app built with Vue.js. The app fetches real-time weather data from the OpenWeatherMap API, displays weather information like temperature, conditions, and location, and updates the background image randomly based on the weather search. It offers a clean and responsive UI for a smooth user experience.
 
+Live Preview 👉 https://vuejsweatherapplication.netlify.app/
+
 <img src="https://github.com/ruchiralkm/Weather-application/blob/main/preview.png?raw=true" style ="width:300px; height:auto;">
 
 ## Features
